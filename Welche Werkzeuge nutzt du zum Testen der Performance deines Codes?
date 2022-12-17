@@ -10,11 +10,11 @@ Firefox Developer Edition (Firefox browser)
 
 Benchmarking-Bibliotheken: 
 Mit diesen Bibliotheken können Sie die Zeit messen, die für die Ausführung eines bestimmten Codeteils benötigt wird. 
-Dies kann nützlich sein, um die Leistung verschiedener Algorithmen zu vergleichen oder um Engpässe in Ihrem Code zu ermitteln.
+Dies kann nützlich sein, um die Leistung verschiedener Algorithmen zu vergleichen oder um Engpässe in Code zu ermitteln.
 Benchmark.js (JavaScript)
 
 Tools für Lasttests: 
-Mit diesen Tools können Sie die Leistung Ihres Codes unter hoher Last testen, 
+Mit diesen Tools kann die Leistung des Codes unter hoher Last getestet werden, 
 z. B. wenn er von vielen Benutzern gleichzeitig verwendet wird.
 WebPageTest (multi-platform)
 Load Impact (Commercial, multi-platform)
@@ -26,4 +26,4 @@ Lighthouse (Chrome browser)
 WebPagetest (multi-platform)
 SpeedCurve (Commercial, multi-platform)
 
-Es ist wichtig zu beachten, dass die Wahl des/der Tools von Ihren spezifischen Anforderungen und der Art des zu testenden Codes abhängt.
+Es ist wichtig zu beachten, dass die Wahl der Tools von spezifischen Anforderungen und der Art des zu testenden Codes abhängt.

@@ -1,29 +1,24 @@
 Welche Werkzeuge nutzt du zum Testen der Performance deines Codes?
 
+Lighthouse: 
+Dies ist ein von Google entwickeltes Werkzeug, mit dem du die Leistung deiner Webseiten überprüfen kannst. 
+Es kann über die Chrome DevTools-Konsole oder als Chrome-Erweiterung ausgeführt werden und gibt einen detaillierten Bericht über die Leistung deiner Seite, 
+einschliesslich Bereichen, in denen Verbesserungen vorgenommen werden können.
 
-Profiler: 
-Mit diesen Tools können Sie die Leistung Ihres Codes analysieren, 
-indem Sie die Zeit messen, die für die Ausführung verschiedener Teile Ihres Codes benötigt wird, 
-sowie die Anzahl der Funktionsaufrufe und die Speichernutzung.
-Chrome DevTools (Chrome browser)
-Firefox Developer Edition (Firefox browser)
+WebPageTest: 
+Dies ist ein Open-Source-Werkzeug, mit dem du die Leistung deiner Webseiten an mehreren Orten auf der ganzen Welt testen kannst. 
+Es gibt einen detaillierten Bericht über die Leistung deiner Seite, einschliesslich Informationen zur Ladezeit der Seite, 
+der Seitengrösse und der Anzahl der Anfragen.
 
-Benchmarking-Bibliotheken: 
-Mit diesen Bibliotheken können Sie die Zeit messen, die für die Ausführung eines bestimmten Codeteils benötigt wird. 
-Dies kann nützlich sein, um die Leistung verschiedener Algorithmen zu vergleichen oder um Engpässe in Code zu ermitteln.
-Benchmark.js (JavaScript)
+Chrome DevTools: 
+Der Chrome-Browser enthält eine Reihe von integrierten Entwicklerwerkzeugen, mit denen du deinen Code testen und debuggen kannst. 
+Dazu gehören die JavaScript-Konsole, mit der du JavaScript-Code ausführen und testen kannst, und das Network-Panel, 
+das Informationen zur Leistung deiner Seite bereitstellt, einschliesslich der Zeit, die zum Laden von Ressourcen benötigt wird, und der Größe dieser Ressourcen.
 
-Tools für Lasttests: 
-Mit diesen Tools kann die Leistung des Codes unter hoher Last getestet werden, 
-z. B. wenn er von vielen Benutzern gleichzeitig verwendet wird.
-WebPageTest (multi-platform)
-Load Impact (Commercial, multi-platform)
+PageSpeed Insights: 
+Dies ist ein weiteres von Google entwickeltes Werkzeug, mit dem du die Leistung deiner Webseiten testen kannst. 
+Es gibt einen Bericht über die Leistung deiner Seite, einschliesslich Vorschlägen zur Verbesserung der Geschwindigkeit deiner Seite.
 
-Tools zur Leistungsüberwachung: 
-Mit diesen Tools können Sie die Leistung Ihres Codes in der Produktion kontinuierlich überwachen und Warnungen ausgeben, 
-wenn die Leistung nachlässt oder andere Probleme auftreten.
-Lighthouse (Chrome browser)
-WebPagetest (multi-platform)
-SpeedCurve (Commercial, multi-platform)
-
-Es ist wichtig zu beachten, dass die Wahl der Tools von spezifischen Anforderungen und der Art des zu testenden Codes abhängt.
+SpeedCurve: 
+Dies ist ein Werkzeug, mit dem du die Leistung deiner Webseiten im Laufe der Zeit überwachen kannst. 
+Es gibt Informationen über die Zeit, die deine Seite zum Laden benötigt, sowie über die Leistung deiner Seite auf verschiedenen Geräten und Browsern.

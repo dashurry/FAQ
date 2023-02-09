@@ -21,4 +21,4 @@ dass die Website plötzliche Spitzen im Datenverkehr bewältigen und ihre Leistu
 - Intersection Observer API
 - Minify and Compress Code
 - Verwendung von CSS-Sprites wo möglich
-- die Anzahl der http-Anfragen verringern
+- die Anzahl der HTTP-Anfragen verringern

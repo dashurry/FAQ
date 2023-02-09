@@ -17,3 +17,8 @@ die die Geschwindigkeit und Reaktionsfähigkeit beeinträchtigen könnten.
 
 Verwende eine skalierbare Hosting-Lösung, z. B. Cloud-Hosting oder einen Managed-Hosting-Dienst, um sicherzustellen, 
 dass die Website plötzliche Spitzen im Datenverkehr bewältigen und ihre Leistung auch bei hoher Belastung aufrechterhalten kann.
+
+- Intersection Observer API
+- Minify and Compress Code
+- Verwendung von CSS-Sprites wo möglich
+- die Anzahl der http-Anfragen verringern

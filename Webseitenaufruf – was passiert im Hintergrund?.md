@@ -6,4 +6,4 @@
 - Datenaustausch via HTTP
 - Seitenaufbau im Webbrowser
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=AvTpjn_sOi0&ab_channel=Staatsinstitutf%C3%BCrdieAusbildungvonFachlehrern)
+[<img src="https://github.com/dashurry/FAQ/blob/main/img/Webseiteaufruf.jpg" width="50%">](https://www.youtube.com/watch?v=AvTpjn_sOi0&ab_channel=Staatsinstitutf%C3%BCrdieAusbildungvonFachlehrern)
